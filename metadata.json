@@ -1,0 +1,6 @@
+{
+  "name": "Sarathi R Portfolio",
+  "description": "A minimal modern portfolio website for Sarathi R, React Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
